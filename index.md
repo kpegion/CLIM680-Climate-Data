@@ -46,7 +46,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 
 <h2 id="general">Information </h2>
 
-This is a graduate course in the MS Climate Science and PhD Climate Dynamics degree programs in the Department of Atmospheric Ocean and Earth Sciences at George Mason University. This course prepares learners to use Earth System Models in their research.
+CLIM 680 Climate Data is a graduate course in the MS Climate Science and PhD Climate Dynamics in the [Department of Atmospheric Ocean and Earth Sciences](http://aoes.gmu.edu) at [George Mason University](https://www2.gmu.edu/) developed by [Prof. Kathy Pegion](https://science.gmu.edu/directory/kathleen-pegion).  This course prepares learners to be able to work with climate datasets for their research.
 
 <h2 id="general">Schedule </h2>
 {% include aoes/schedule.html %}
