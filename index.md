@@ -48,6 +48,8 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 
 CLIM 680 Climate Data is a graduate course in the MS Climate Science and PhD Climate Dynamics in the [Department of Atmospheric Ocean and Earth Sciences](http://aoes.gmu.edu) at [George Mason University](https://www2.gmu.edu/) developed by [Prof. Kathy Pegion](https://science.gmu.edu/directory/kathleen-pegion).  This course prepares learners to be able to work with climate datasets for their research.
 
+<h2><a href='https://kpegion.github.io/CLIM680-Climate-Data/syllabus.md'>Syllabus</a>
+
 <h2 id="general">Schedule </h2>
 {% include aoes/schedule.html %}
 
