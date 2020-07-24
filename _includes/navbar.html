@@ -15,6 +15,7 @@
         <span class="icon-bar"></span>
       </button>
 
+{% comment %}
       {% comment %} Select what logo to display. {% endcomment %}
       {% if site.carpentry == "swc" %}
       <a href="{{ site.swc_site }}" class="pull-left">
@@ -40,9 +41,6 @@
     </div>
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-
-	{% comment %} Always show code of conduct. {% endcomment %}
-        <li><a href="{{ relative_root_path }}{% link CODE_OF_CONDUCT.md %}">Code of Conduct</a></li>
 
         {% if site.kind == "lesson" %}
 	{% comment %} Show setup instructions. {% endcomment %}
@@ -83,7 +81,7 @@
           </ul>
         </li>
 	{% endif %}
-
+{% endcomment %}
 	{% comment %} Always show license. {% endcomment %}
         <li><a href="{{ relative_root_path }}{% link LICENSE.md %}">License</a></li>
 	{% if page.source %}
